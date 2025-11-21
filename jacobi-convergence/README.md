@@ -57,7 +57,7 @@ B = D⁻¹(L + U)
 
 ```bash
 # استنساخ المستودع
-git clone https://github.com/YOUR_USERNAME/jacobi-convergence.git
+git clone https://github.com/benyaknadal/jacobi-convergence.git
 cd jacobi-convergence
 ```
 
